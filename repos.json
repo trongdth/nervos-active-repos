@@ -1,0 +1,37 @@
+{
+    "repos": [
+        "nervosnetwork/ckb",
+        "nervosnetwork/fiber",
+        "nervosnetwork/ckb-explorer",
+        "nervosnetwork/neuron",
+        "nervosnetwork/rfcs",
+        "nervosnetwork/force-bridge",
+        
+        "ckb-ecofund/ccc",
+        "ckb-ecofund/offckb",
+        "ckb-ecofund/nervdao",
+        
+        "utxostack/rgbpp-sdk",
+        "nervina-labs/cota-sdk-js",
+        "nervina-labs/cota-syncer",
+        "nervina-labs/cota-registry-aggregator",
+        "nervina-labs/cota-aggregator",
+        "sporeprotocol/spore-sdk",
+        "sporeprotocol/spore-graphql",
+        "sporeprotocol/spore-contract",
+        "sporeprotocol/spore-dob-0",
+        "sporeprotocol/spore-demo",
+        "cryptape/ckb-node-probe",
+        "cryptape/fiber-sphinx",
+        "cryptape/ckb-node-bridge-miner",
+        "cryptape/ckb-sync",
+        "cryptape/ckb-script-templates",        
+        "ckb-js/lumos",
+        "TeamTaoist/reiwallet",
+        "Peersyst/ckbull-mobile",
+        "UTXO-Global/utxo-wallet-extension",
+        "UTXO-Global/utxo-global-twa-boilerplate",
+        "ickb/v1-core",
+        "ickb/v1-interface"
+    ]
+}
